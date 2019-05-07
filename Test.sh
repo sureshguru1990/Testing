@@ -1,1 +1,1 @@
-echo "Suresh Kumar"
+echo "Suresh"
